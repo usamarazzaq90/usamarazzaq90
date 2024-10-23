@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h4>💻 Tech Stack:</h4>
 
 <ul>
-  <li><b>Frontend:</b> React.js, HTML5, CSS3, JavaScript</li>
+  <li><b>Frontend:</b> React.js, HTML5, CSS3, JavaScript, C/C++</li>
   <li><b>Backend:</b> Node.js, Express.js</li>
   <li><b>Database:</b> MongoDB</li>
   <li><b>Tools:</b> Git, GitHub, VS Code</li>
