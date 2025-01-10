@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <li>JavaScript, C/C++ </li>
   <li>Node.js, Express.js</li>
   <li>MongoDB</li>
+  <li>SQL</li>li>
   <li>Git, GitHub, VS Code</li>
 </ul>
 
