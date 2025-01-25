@@ -48,7 +48,6 @@ Let’s collaborate on exciting projects or discuss anything tech-related!</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamarazzaq90" alt="usamarazzaq90" /></a> </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamarazzaq90&show_icons=true&locale=en&layout=compact" alt="usamarazzaq90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamarazzaq90&show_icons=true&locale=en" alt="usamarazzaq90" /></p>
