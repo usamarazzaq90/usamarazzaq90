@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <h4>🔭 What I’m Working On:</h4>
 <ul>
-  <li>Software Engineer at <strong>Marham</strong></li>
-  <li>Technical Lead at Dev Weekends</li>
+  <li>Software Engineer at <a href="https://www.linkedin.com/company/marham/posts/?feedView=all" target="blank"><strong>Marham</strong></a></li>
+  <li>Technical Lead at <a href="https://www.devweekends.com/" target="blank"><strong>Dev Weekends</strong></a></li>
 </ul>
 
 <h4>📚 Hobbies:</h4>
