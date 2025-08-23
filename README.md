@@ -14,23 +14,26 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Usama Razzaq</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <h4 align="left">Assalam o Alaikum!</h4>
-<p align="left">I am a final-year IT student with a passion for building full-stack applications using the MERN stack. I enjoy solving problems and continuously improving my Data Structures and Algorithms (DSA) knowledge through LeetCode.
+<p align="left">I am a Software Engineer with a passion for building impactful and outcome-based applictaions. I enjoy solving problems and continuously improving my Data Structures and Algorithms (DSA) knowledge through LeetCode.
 
 <h4>💻 Languages and Tools:</h4>
 
 <ul>
   <li>HTML5, CSS3, Bootsrap, Tailwind</li>
-  <li>JavaScript, C/C++ </li>
-  <li>Node.js, Express.js</li>
-  <li>MongoDB</li>
-  <li>SQL</li>
-  <li>Git, GitHub, VS Code</li>
+  <li>JavaScript, C/C++, PHP, SQL </li>
+  <li>React, Angular, Next</li>
+  <li>Node, Express, Nest, Laravel</li>
+  <li>MySQL, PostgreSQL, MongoDB, Firebase</li>
+  <li>Git, GitHub, BitBucket, VS Code, Postman</li>
 </ul>
 
 <h4>🔭 What I’m Working On:</h4>
-Currently polishing my DSA skills and working on full-stack projects that aim to solve real-world problems.
+<ul>
+  <li>Software Engineer at <strong>Marham</strong></li>
+  <li>Technical Lead at Dev Weekends</li>
+</ul>
 
 <h4>📚 Hobbies:</h4>
 <ul>
