@@ -1,61 +1,48 @@
-<!--
-**usamarazzaq90/usamarazzaq90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Usama Razzaq</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
+
 <h4 align="left">Assalam o Alaikum!</h4>
-<p align="left">I am a Software Engineer with a passion for building impactful and outcome-based applictaions. I enjoy solving problems and continuously improving my Data Structures and Algorithms (DSA) knowledge through LeetCode.
+<p align="left">I am a Full-Stack Software Engineer with 3 years of hands-on experience architecting scalable backend systems, responsive frontend interfaces, and data/AI-driven workflows. Passionate about problem-solving, clean code architecture, and continuous algorithmic learning.</p>
 
 <h4>💻 Languages and Tools:</h4>
-
 <ul>
-  <li>HTML5, CSS3, Bootsrap, Tailwind</li>
-  <li>JavaScript, C/C++, PHP, SQL </li>
-  <li>React, Angular, Next</li>
-  <li>Node, Express, Nest, Laravel</li>
-  <li>MySQL, PostgreSQL, MongoDB, Firebase</li>
-  <li>Git, GitHub, BitBucket, VS Code, Postman</li>
+  <li><strong>Languages:</strong> JavaScript (ES6+), TypeScript, Python, SQL, C/C++, PHP</li>
+  <li><strong>Frontend:</strong> React.js, Next.js, Angular, Redux, Tailwind CSS, HTML5/CSS3</li>
+  <li><strong>Backend & APIs:</strong> Node.js, Express.js, NestJS, Laravel, RESTful APIs, MCP</li>
+  <li><strong>Databases & Cloud:</strong> PostgreSQL, MySQL, MongoDB, Firebase, GCP</li>
+  <li><strong>AI & ML Tools:</strong> TensorFlow, LLM Integration (Claude / Gemini / OpenAI API)</li>
+  <li><strong>Developer Tools:</strong> Git, GitHub, Bitbucket, Postman, Linux/Bash</li>
 </ul>
 
 <h4>🔭 What I’m Working On:</h4>
 <ul>
-  <li>Software Engineer at <a href="https://www.linkedin.com/company/marham/posts/?feedView=all" target="_blank"><strong>Marham</strong></a></li>
-  <li>Technical Lead at <a href="https://www.devweekends.com/" target="_blank"><strong>Dev Weekends</strong></a></li>
+  <li>Software Engineer at <a href="https://www.linkedin.com/company/marham/posts/?feedView=all" target="_blank"><strong>Marham</strong></a> — Scaling MERN platforms, automated data recovery, and AI triage workflows.</li>
+  <li>Technical Lead & DSA Instructor at <a href="https://www.devweekends.com/" target="_blank"><strong>Dev Weekends</strong></a> — Mentoring aspiring software engineers in full-stack web technologies and algorithmic problem solving.</li>
 </ul>
 
-<h4>📚 Hobbies:</h4>
+<h4>📚 Focus & Interests:</h4>
 <ul>
-  <li>Reading tech-related books and enhancing my knowledge in AI and software engineering.</li>
-  <li>Writing to share insights about tech trends and personal experiences.</li>
+  <li>Deepening expertise in <strong>AI Engineering</strong>, LLM orchestration, and distributed backend architectures.</li>
+  <li>Solving complex algorithmic problems on LeetCode (240+ problems solved).</li>
+  <li>Technical writing and sharing practical engineering insights.</li>
 </ul>
 
-Let’s collaborate on exciting projects or discuss anything tech-related!</p>
+<p>Let’s collaborate on exciting projects or discuss anything tech-related!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/usamarazzaq90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usamarazzaq90/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/usamarazzaq90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usamarazzaq90" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/usamarazzaq90/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/usamarazzaq90/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:usamarazzaq9014@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamarazzaq90" alt="usamarazzaq90" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamarazzaq90&show_icons=true&locale=en&layout=compact" alt="usamarazzaq90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamarazzaq90&show_icons=true&locale=en" alt="usamarazzaq90" /></p>
-
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamarazzaq90&" alt="usamarazzaq90" /></p> 
--->
-
+<!-- <h3 align="left">LeetCode Stats:</h3>
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/usamarazzaq90?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p> -->
