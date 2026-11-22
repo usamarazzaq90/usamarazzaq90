@@ -1,31 +1,40 @@
-<h1 align="center">Hi 👋, I'm Usama Razzaq</h1>
-<h3 align="center">Software Engineer | AI & Full-Stack Developer</h3>
+# Hi, I'm Usama 👋
 
-<h4 align="left">Assalam o Alaikum!</h4>
-<p align="left">I am a Full-Stack Software Engineer with 3 years of hands-on experience architecting scalable backend systems, responsive frontend interfaces, and data/AI-driven workflows. Passionate about problem-solving, clean code architecture, and continuous algorithmic learning.</p>
+**Full-Stack AI Engineer** — I build production AI and backend systems that move business metrics, not just ship features.
 
-<h4>💻 Languages and Tools:</h4>
-<ul>
-  <li><strong>Languages:</strong> JavaScript (ES6+), TypeScript, Python, SQL, C/C++, PHP</li>
-  <li><strong>Frontend:</strong> React.js, Next.js, Angular, Redux, Tailwind CSS, HTML5/CSS3</li>
-  <li><strong>Backend & APIs:</strong> Node.js, Express.js, NestJS, Laravel, RESTful APIs, MCP</li>
-  <li><strong>Databases & Cloud:</strong> PostgreSQL, MySQL, MongoDB, Firebase, GCP</li>
-  <li><strong>AI & ML Tools:</strong> TensorFlow, LLM Integration (Claude / Gemini / OpenAI API)</li>
-  <li><strong>Developer Tools:</strong> Git, GitHub, Bitbucket, Postman, Linux/Bash</li>
-</ul>
+📍 Lahore, Pakistan · 🌍 Open to remote
 
-<h4>🔭 What I’m Working On:</h4>
-<ul>
-  <li>Software Engineer at <a href="https://www.linkedin.com/company/marham/posts/?feedView=all" target="_blank"><strong>Marham</strong></a> — Scaling MERN platforms, automated data recovery, and AI triage workflows.</li>
-  <li>Technical Lead & DSA Instructor at <a href="https://www.devweekends.com/" target="_blank"><strong>Dev Weekends</strong></a> — Mentoring aspiring software engineers in full-stack web technologies and algorithmic problem solving.</li>
-</ul>
+---
 
-<h4>📚 Focus & Interests:</h4>
-<ul>
-  <li>Deepening expertise in <strong>AI Engineering</strong>, LLM orchestration, and distributed backend architectures.</li>
-  <li>Solving complex algorithmic problems on LeetCode (240+ problems solved).</li>
-  <li>Technical writing and sharing practical engineering insights.</li>
-</ul>
+### 🚀 What I work on
+
+- **AI & LLM systems** — LLM-powered product features, Model Context Protocol (MCP) integrations connecting LLMs to live data, and agentic workflows
+- **Backend engineering** — NestJS / Node.js services, payment & refund flows, ERP integrations, and data-heavy business logic
+- **Full-stack products** — Next.js / React frontends backed by clean, typed APIs
+- **Cloud** — deploying and running services on GCP (Nginx, PM2, Linux)
+
+### 💼 Currently
+
+Software Engineer at **Marham**, one of Pakistan's leading digital healthcare platforms, where I've:
+- Built and scaled an AI symptom-triage product
+- Connected Claude to production data via MCP for real-time analysis and debugging
+- Owned payment/refund flows and Odoo ERP synchronization end-to-end
+- Led the migration of our internal operations CRM from legacy PHP to React / NestJS / TypeORM
+
+### 🛠️ Tech stack
+
+**Languages:** TypeScript · JavaScript · Python · PHP · SQL · C/C++
+**Backend:** Node.js · NestJS · Express · Laravel · REST APIs
+**Frontend:** React · Next.js · Angular · Tailwind CSS
+**Databases:** MySQL · PostgreSQL · MongoDB
+**AI / LLM:** LLM APIs · MCP · Prompt & Context Engineering · Agentic AI · Claude
+**Cloud / DevOps:** GCP · Nginx · PM2 · Linux · Git
+
+### 🌱 Beyond work
+
+- Technical Lead at **Dev Weekends** — mentored 30+ developers
+- DSA instructor for bootcamp classes of 50+ students
+- 240+ problems solved on [LeetCode](https://leetcode.com/u/usamarazzaq90/)
 
 <p>Let’s collaborate on exciting projects or discuss anything tech-related!</p>
 
