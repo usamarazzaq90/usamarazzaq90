@@ -23,12 +23,12 @@ Software Engineer at **Marham**, one of Pakistan's leading digital healthcare pl
 
 ### 🛠️ Tech stack
 
-**Languages:** TypeScript · JavaScript · Python · PHP · SQL · C/C++
-**Backend:** Node.js · NestJS · Express · Laravel · REST APIs
-**Frontend:** React · Next.js · Angular · Tailwind CSS
-**Databases:** MySQL · PostgreSQL · MongoDB
-**AI / LLM:** LLM APIs · MCP · Prompt & Context Engineering · Agentic AI · Claude
-**Cloud / DevOps:** GCP · Nginx · PM2 · Linux · Git
+- **Languages:** TypeScript · JavaScript · Python · PHP · SQL · C/C++
+- **Backend:** Node.js · NestJS · Express · Laravel · REST APIs
+- **Frontend:** React · Next.js · Angular · Tailwind CSS
+- **Databases:** MySQL · PostgreSQL · MongoDB
+- **AI / LLM:** LLM APIs · MCP · Prompt & Context Engineering · Agentic AI · Claude
+- **Cloud / DevOps:** GCP · Nginx · PM2 · Linux · Git
 
 ### 🌱 Beyond work
 
